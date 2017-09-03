@@ -91,8 +91,8 @@ $(document).ready(function() {
 	});
 
 	$(".section-head h2, .section-head p").animated("fadeIn");
-	$(".info-item-wrap").animated("zoomIn");
-	$(".slider .slide").animated("fadeIn");
+	$(".info-item-wrap").animated("fadeInUp");
+	$(".slider").animated("fadeIn");
 	$(".homesect.section_8 .forms").animated("fadeInRight");
 	$(".homesect.section_8 .p").animated("fadeIn");
 
@@ -146,7 +146,7 @@ $(document).ready(function() {
 	$(".forms").submit(function() {
 		$.ajax({
 			type: "POST",
-			url: "/mail.php",
+			url: "mail.php",
 			data: $(this).serialize()
 		}).done(function() {
 			alert("Спасибо за заявку!");
