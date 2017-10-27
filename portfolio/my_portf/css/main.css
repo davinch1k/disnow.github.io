@@ -369,7 +369,8 @@ svg path {
   display: none;
   padding: 0; }
   .portfolio_item img {
-    width: 98%; }
+    max-width: 100%;
+    height: auto; }
   .portfolio_item .port_item_cont {
     position: absolute;
     top: 0;
