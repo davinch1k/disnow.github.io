@@ -1,10 +1,10 @@
 
 
-# Присуха Дмитрий
-### Junior Front-end Developer
+# Prisuhka  Dmitriy
+### Front-end Developer
 
-#####   Мое портфолио:
-[Тестовое портфолио](https://disnow.github.io/portfolio-works/my_portf/ "Мое первое портфолио")
+#####   My portfolio:
+[Test portfolio](https://disnow.github.io/portfolio-works/my_portf/ "My first portfolio")
 
 
-#####  Список моих работ:
+#####  List of my works:
